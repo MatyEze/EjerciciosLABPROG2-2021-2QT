@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\matys\\source\\repos\\Ejercicio11-15\\Ejercicio13\\Ejercicio13.csproj",
+      "projectUniqueName": "C:\\Users\\matys\\source\\repos\\EjerciciosLABPROG2-2021-2QT\\Ejercicio11-15\\Ejercicio13\\Ejercicio13.csproj",
       "projectName": "Ejercicio13",
-      "projectPath": "C:\\Users\\matys\\source\\repos\\Ejercicio11-15\\Ejercicio13\\Ejercicio13.csproj",
+      "projectPath": "C:\\Users\\matys\\source\\repos\\EjerciciosLABPROG2-2021-2QT\\Ejercicio11-15\\Ejercicio13\\Ejercicio13.csproj",
       "packagesPath": "C:\\Users\\matys\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\matys\\source\\repos\\Ejercicio11-15\\Ejercicio13\\obj\\",
+      "outputPath": "C:\\Users\\matys\\source\\repos\\EjerciciosLABPROG2-2021-2QT\\Ejercicio11-15\\Ejercicio13\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\matys\\AppData\\Roaming\\NuGet\\NuGet.Config",

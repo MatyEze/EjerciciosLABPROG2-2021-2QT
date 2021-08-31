@@ -11,11 +11,22 @@ namespace Ejercicio13
         public static string DecimalBinario(int num)
         {
             string rt = string.Empty;
+            char[] cArray;
             int resultado = num;
 
             while(resultado > 0)
             {
-                string.Concat(rt, (char)resultado % 2);
+                rt = string.Concat(rt, (resultado % 2));
+                resultado /= 2;
+            }
+
+            cArray = rt.ToCharArray();
+            Array.Reverse(cArray);
+            rt = string.Empty;
+
+            for (int i = 0; i < cArray.Length; i++)
+            {
+                rt = string.Concat(rt, cArray[i]);
             }
 
             return rt;
